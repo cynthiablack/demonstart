@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+}
+
+span {
+    text-transform: uppercase;
+}
